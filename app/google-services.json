@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091300305986",
+    "project_id": "terraauthtest",
+    "storage_bucket": "terraauthtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091300305986:android:c67fc817ac6153d60a11db",
+        "android_client_info": {
+          "package_name": "com.example.terratestdriveauthorisation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091300305986-5dd1tauueriugqfbe0t13hvurahmrpg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4jB3ltOb-i7_JIiBD3e0sbbpM1VDUFpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091300305986-5dd1tauueriugqfbe0t13hvurahmrpg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
